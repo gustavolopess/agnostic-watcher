@@ -33,3 +33,8 @@ An observability tool designed to be agnostic to data sources.
 👉 &nbsp;&nbsp;__Data Source Register__ is charged with keeping the catalogue of data sources and perform CRUD operations on it.
 
 👉 &nbsp;&nbsp;__Alert Emitter__ is responsible for sending the alerts to the designated target and to keep the catalogue of available alert targets and perform CRUD operations on it.
+
+
+## Roadmap
+
+You can follow this project's [roadmap on trello](https://trello.com/b/QKe5AeiW/roadmap-agnostic-watcher)
